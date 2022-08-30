@@ -90,10 +90,10 @@ h3 {font-size: var(--fs-h3);}
 	background: var(--clr-accent);
 	font-family: var(--ff-secondary);
 	margin-bottom: 1em;
-	padding: .25em;
+	padding: .35em;
 }
 section {
-	padding: 5em 2em;
+	padding: 3em 1em;
 }
 header {
 	display: flex;
@@ -155,8 +155,8 @@ header {
 		grid-row: 2;
 		text-align: right;
 		position: relative;
-		left: -1.5em;
-		width: calc(100% + 1.5em);
+		left: -0.5em;
+
 	}
 }
 .my-services {
