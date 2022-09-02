@@ -291,7 +291,7 @@ header {
 }
 .social-list {
 	list-style: none;
-	margin: 2em 0 0;
+	margin: 1em 0 0;
 	display: flex;
 	justify-content: center;
 	padding: 0;
@@ -301,7 +301,7 @@ header {
 
 }
 .social-list__link {
-	padding: 4em;
+	padding: 2em;
 }
 .ham {
 	display: block;
